@@ -3,7 +3,7 @@ body{
     margin:0%;
 }
 .topo{
-    background:rgb(253, 182, 89);
+    background:#B2E7E8;
     height: 200px;
     padding: 30px 0;
     color:black;
@@ -12,7 +12,7 @@ body{
     display: flex;
     width:100%;
     justify-content: space-around;
-    background:#000;
+    background:#304D63;
     margin:0;
 }
 .topo li{
@@ -20,7 +20,7 @@ body{
 }
 .topo li a{
     text-decoration: none;
-    color:#FFF;
+    color:white;
     padding: 10px;
    display: flex;
 }
@@ -28,13 +28,12 @@ body{
     text-decoration: underline;
 }
 .corpo{
-    background: rgb(224, 108, 12);
+    background:#8FB9AA;
     text-align: center;
     min-height: 300px;
 }
 .rodape{
-    background: rgb(12, 134, 190);
+    background:#F2D096;
     height: 150px;
     padding: 30px;
-    color:black;
-}
+  
